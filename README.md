@@ -30,15 +30,6 @@
 
 ---
 
-### 📈 GitHub Insights
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CarlosNayan&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNayan&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ### 💬 Quote
 
 > “Code is like humor. When you have to explain it, it’s bad.”
